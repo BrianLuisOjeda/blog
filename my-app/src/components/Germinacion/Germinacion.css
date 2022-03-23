@@ -1,0 +1,12 @@
+.containerGerminacion{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.tituloSecundario{
+    margin: 5rem 0rem 5rem 0rem;
+}
